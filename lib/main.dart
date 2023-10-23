@@ -52,8 +52,6 @@ class _MyAppState extends State<MyApp> {
   }
 
 
-  String _platformVersion = 'Unknown';
-
   @override
   void initState() {
     super.initState();
